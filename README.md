@@ -1,5 +1,5 @@
 # 🚀 Sohaib Khan  
-💡 **DevOps Engineer | Mobile Application Developer | Cloud & Automation Enthusiast**  
+💡 **DevOps Engineer | Docker | Kubernetes | CI/CD | Terraform | Ansible | Cloud & Automation Enthusiast**  
 
 ## 🔹 Expertise in  
 ✅ **DevOps & Cloud**: Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions, Jenkins), Azure, GCP  
@@ -9,7 +9,7 @@
 
 ## 📂 Featured Projects  
 
-### 🚀 Fitness App  
+### 🚀 Fitness App devops 
 - Implemented DevOps practices  
 - Used Docker for containerization, Kubernetes for scalability  
 - Automated infrastructure using Terraform & Ansible  
