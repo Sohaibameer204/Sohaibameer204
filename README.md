@@ -1,5 +1,5 @@
 # 🚀 Sohaib Khan  
-💡 **DevOps Engineer | Docker | Kubernetes | CI/CD | Terraform | Ansible | Cloud & Automation Enthusiast**  
+💡 **DevOps Engineer | Docker | Kubernetes | CI/CD | Terraform | Ansible | prometheus & Grafana | Cloud & Automation Enthusiast**  
 
 ## 🔹 Expertise in  
 ✅ **DevOps & Cloud**: Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions, Jenkins), Azure, GCP   
@@ -21,7 +21,8 @@
 ### 🚀 Tableeghi Community Connector  
 - Developed a React Native app for community engagement  
 - Integrated real-time sentiment analysis using the Sentiment library  
-- Firebase for authentication & data storage   
+- Firebase for authentication & data storage
+- setup CI/CD pipeline to publish on expo using EAS   
 
 📌 **More Projects**: [View my GitHub](#)  
 
